@@ -9,4 +9,4 @@
 -  **Support for classification and regression tasks**
 -  **Easy to use and understand implementation**
 
-Also i have included KNN from scikit-learn for comaprison
+-  Also I have included KNN from scikit-learn for comparison
